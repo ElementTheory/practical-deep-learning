@@ -7,3 +7,6 @@
 [submodule "diffusion-nbs"]
 	path = diffusion-nbs
 	url = https://github.com/fastai/diffusion-nbs
+[submodule "course22p2"]
+	path = course22p2
+	url = https://github.com/fastai/course22p2.git
